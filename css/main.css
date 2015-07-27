@@ -151,7 +151,7 @@ textarea {
 }
 
 .sideMenu > ul > a:hover {
-    background-color: rgb(200,200,200);
+    background-color: rgb(230,230,230);
 }
 
 .sideMenu > ul > a > li {
@@ -159,7 +159,7 @@ textarea {
 }
 
 .selected {
-    background-color: rgb(200,200,200);
+    background-color: rgb(230,230,230);
     font-weight: bold!important;
 }
 
